@@ -1,16 +1,28 @@
+import { Title } from "./App.styled";
+import { EventList } from "./EventList/EventList";
+import dataArray from '../upcoming-events';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <>
+      <Title>24th Core Worlds Coalition Conference</Title>
+      <EventList events={dataArray}></EventList>
+    </>
   );
 };
+
+
+
+
+// App: 
+//  Container  
+//    Title  
+//  Container 
+//  Container
+//    EventList - event: array
+//    EventItem - name: string
+//                location: string
+//                speaker: string
+//                type: sting ['free', 'vip', 'paid']
+//                time: object
+//    Container
