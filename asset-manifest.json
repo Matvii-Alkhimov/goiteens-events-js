@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goiteens-events-js/static/css/main.ebc0a3f6.css",
+    "main.css": "/goiteens-events-js/static/css/main.24702fb5.css",
     "main.js": "/goiteens-events-js/static/js/main.43bbc286.js",
     "index.html": "/goiteens-events-js/index.html",
-    "main.ebc0a3f6.css.map": "/goiteens-events-js/static/css/main.ebc0a3f6.css.map",
+    "main.24702fb5.css.map": "/goiteens-events-js/static/css/main.24702fb5.css.map",
     "main.43bbc286.js.map": "/goiteens-events-js/static/js/main.43bbc286.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebc0a3f6.css",
+    "static/css/main.24702fb5.css",
     "static/js/main.43bbc286.js"
   ]
 }
