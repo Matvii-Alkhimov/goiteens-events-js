@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.ebc0a3f6.css",
-    "main.js": "/react-homework-template/static/js/main.c53cbc63.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.ebc0a3f6.css.map": "/react-homework-template/static/css/main.ebc0a3f6.css.map",
-    "main.c53cbc63.js.map": "/react-homework-template/static/js/main.c53cbc63.js.map"
+    "main.css": "/goiteens-events-js/static/css/main.ebc0a3f6.css",
+    "main.js": "/goiteens-events-js/static/js/main.43bbc286.js",
+    "index.html": "/goiteens-events-js/index.html",
+    "main.ebc0a3f6.css.map": "/goiteens-events-js/static/css/main.ebc0a3f6.css.map",
+    "main.43bbc286.js.map": "/goiteens-events-js/static/js/main.43bbc286.js.map"
   },
   "entrypoints": [
     "static/css/main.ebc0a3f6.css",
-    "static/js/main.c53cbc63.js"
+    "static/js/main.43bbc286.js"
   ]
 }
